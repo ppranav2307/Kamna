@@ -74,7 +74,7 @@ body {
     z-index: 3;
     /* --- UPDATED --- */
     /* A deep, almost-black color for the main title */
-    color: #ff4ba5; 
+    color: #000000; 
     bottom: 20px;
     left: 20px;
     right: 20px;
@@ -89,7 +89,7 @@ body {
     z-index: 3;
     /* --- UPDATED --- */
     /* A mid-tone grey for the number to give it more presence */
-    color: #95a5a6; 
+    color: #ffffff; 
     top: 15px;
     left: 20px;
     transition: opacity 0.8s cubic-bezier(0, 0.02, 0, 1);
